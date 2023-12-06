@@ -1,0 +1,33 @@
+.tudo{
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+
+}
+
+.caminhao{
+    margin-right: 100px;
+    border: 2px black solid;
+    border-radius: 15px;
+
+}
+
+.carro{
+    border: 2px black solid;
+    border-radius: 15px;
+    
+}
+
+.grudadin{
+    padding-left: 7px;
+
+}
+
+
+.pzin{
+    display: flex;
+    margin-left: 10px;
+}
+
+
+
